@@ -6,10 +6,15 @@ Utilizei datasets de exemplo extraídos do Kaggle (Retail DB), realizando leitur
 O projeto inclui:
 
 ✅ Execução de jobs Glue localmente com Docker
+
 ✅ Leitura de fontes CSV e JSON
+
 ✅ Conversão entre formatos
+
 ✅ União de dados em um único dataset unificado
+
 ✅ Geração de saídas organizadas em diferentes pastas (output/csv_output, output/json_output, output/unified_output)
+
 
 ## 🚀 Tecnologias e Ferramentas
 - AWS Glue 4.x Local Docker Image
