@@ -16,11 +16,11 @@ O projeto inclui:
   
 - Apache Spark
 
--PySpark
+- PySpark
 
--Python 3.x
+- Python 3.x
 
--Jupyter Notebook (modo local no container)
+- Jupyter Notebook (modo local no container)
 
--Git + GitHub
+- Git + GitHub
 
